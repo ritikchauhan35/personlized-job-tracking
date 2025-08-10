@@ -1,0 +1,12 @@
+{
+  "name": "Personalized Job Tracker",
+  "short_name": "Personalized",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0b12",
+  "theme_color": "#0ea5e9",
+  "description": "Personalized, modern job application tracker.",
+  "icons": [
+    { "src": "/favicon.ico", "sizes": "48x48", "type": "image/x-icon" }
+  ]
+}
